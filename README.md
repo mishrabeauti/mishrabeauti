@@ -9,8 +9,9 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Gmail-mishrabeauti54%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrabeauti54@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2082--------0-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9182-------)
-[![Profile Views](https://komarev.com/ghpvc/?username=beauti-kumari&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/beauti-kumari)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208210742920-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918210742920)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-beauti--mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beauti-mishra-321645249/)
+[![Profile Views](https://komarev.com/ghpvc/?username=mishrabeauti&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/mishrabeauti)
 
 </div>
 
@@ -148,12 +149,12 @@ const beauti: SoftwareEngineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=A78BFA&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishrabeauti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=A78BFA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrabeauti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7F7&ring=A78BFA&fire=6EE7F7&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrabeauti&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7F7&ring=A78BFA&fire=6EE7F7&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
 </div>
 
@@ -162,7 +163,7 @@ const beauti: SoftwareEngineer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mishrabeauti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -179,7 +180,7 @@ const beauti: SoftwareEngineer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=6EE7F7&line=A78BFA&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrabeauti&bg_color=0D1117&color=6EE7F7&line=A78BFA&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
