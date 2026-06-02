@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Gmail-mishrabeauti54%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrabeauti54@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208210742920-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9182-------)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2082--------0-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9182-------)
 [![Profile Views](https://komarev.com/ghpvc/?username=beauti-kumari&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/beauti-kumari)
 
 </div>
